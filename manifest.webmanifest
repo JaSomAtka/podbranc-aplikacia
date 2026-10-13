@@ -1,0 +1,23 @@
+{
+  "name": "Obec Podbranč",
+  "short_name": "Podbranč",
+  "description": "Aktuálne informácie z obce Podbranč – hlásenia rozhlasu, oznamy, odvoz odpadu, kalendár a kontakty.",
+  "lang": "sk",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#EEF1EC",
+  "theme_color": "#2D4A2B",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Odvoz odpadu", "url": "./#odpad", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Hlásenia rozhlasu", "url": "./#spravy", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Kontakty", "url": "./#kontakty", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Podbranč",
+  "web": "https://www.podbranc.sk",
+  "weather": { "lat": 48.70, "lon": 17.40 },
+  "push": { "enabled": false },
+  "office": {
+    "name": "Obecný úrad Podbranč",
+    "address": "Podbranč č. 219, 906 05 Podbranč",
+    "mapUrl": "https://www.google.com/maps/search/?api=1&query=Obecn%C3%BD%20%C3%BArad%20Podbran%C4%8D%20219",
+    "callNumber": "0910 704 633",
+    "contactEmail": "oupodbranc@podbranc.sk",
+    "phones": [
+      { "label": "Obecný úrad", "number": "0910 704 633" },
+      { "label": "Pevná linka", "number": "034 / 6282 430" },
+      { "label": "Starosta", "number": "0905 413 523" }
+    ],
+    "emails": [
+      { "label": "Obecný úrad", "email": "oupodbranc@podbranc.sk" },
+      { "label": "Starosta", "email": "starosta@podbranc.sk" },
+      { "label": "Podateľňa", "email": "podatelna@podbranc.sk" }
+    ],
+    "hours": [
+      { "day": 1, "label": "Pondelok", "slots": [["07:30", "12:00"], ["13:00", "15:30"]] },
+      { "day": 2, "label": "Utorok", "slots": [["07:30", "12:00"], ["13:00", "15:30"]] },
+      { "day": 3, "label": "Streda", "slots": [["07:30", "12:00"], ["13:00", "16:00"]] },
+      { "day": 4, "label": "Štvrtok", "slots": [], "note": "Nestránkový deň" },
+      { "day": 5, "label": "Piatok", "slots": [["07:30", "12:00"], ["13:00", "15:30"]] }
+    ]
+  },
+  "numbers": [
+    { "name": "Tiesňová linka", "desc": "Jednotné európske číslo", "number": "112" },
+    { "name": "Hasiči", "desc": "Hasičský a záchranný zbor", "number": "150" },
+    { "name": "Záchranka", "desc": "Záchranná zdravotná služba", "number": "155" },
+    { "name": "Polícia", "desc": "Policajný zbor SR", "number": "158" },
+    { "name": "Pohrebná služba", "desc": "Zabezpečuje obec Sobotište", "number": "0901 705 131" }
+  ],
+  "numbersNote": "Lekár, lekáreň, poruchy vody a elektriny – doplní obec",
+  "links": {
+    "uradne": [
+      { "label": "Tlačivá a dokumenty", "url": "https://www.podbranc.sk/10434/dokumenty-a-tlaciva", "icon": "doc" },
+      { "label": "Úradná tabuľa", "url": "https://www.podbranc.sk/zverejnovanie/735/uradna-tabula", "icon": "board" },
+      { "label": "Podnety na webe obce", "url": "https://www.podbranc.sk/podnety-a-otazky", "icon": "flag" }
+    ],
+    "zivot": [
+      { "label": "Futbal – TJ Podbranč", "url": "https://www.podbranc.sk/futbal", "icon": "ball" },
+      { "label": "Fotogaléria", "url": "https://www.podbranc.sk/fotogalerie", "icon": "image" },
+      { "label": "Spoznajte Podbranč", "sub": "Hrad Branč, náučný chodník", "url": "https://www.podbranc.sk/9959/zrucanina-hradu-branc", "icon": "hill" },
+      { "label": "Cintoríny a pohreby", "url": "https://www.podbranc.sk/p/10112/cintorin.html", "icon": "leaf" }
+    ]
+  },
+  "wasteInfo": "Komunálny odpad sa vyváža každý druhý štvrtok (v nepárnom týždni), triedený odpad raz za mesiac.",
+  "wasteUrl": "https://www.podbranc.sk/p/10097/zber-odpadu.html",
+  "podnetUrl": "https://www.podbranc.sk/podnety-a-otazky/pridat"
+}
