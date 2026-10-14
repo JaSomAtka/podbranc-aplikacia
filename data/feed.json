@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T08:58:46Z",
+ "updated": "2026-10-14T11:55:37Z",
  "news": [
   {
    "id": "142122",
@@ -84,20 +84,12 @@
  ],
  "hlasenia": [
   {
-   "id": "f2c740a773c5",
+   "id": "a796d4cb6001",
    "paragraphs": [
-    "BB oko OPTIK Banská Bystrica v našej obci dňa 20.10.2026 od 13.00hod do 13.45hod bude na obecnom úrade ponúkať bezplatnú kontrolu a meranie zrakovej ostrosti.",
-    "V prípade záujmu je možnosť vyhotovenia nových okuliarov alebo vymeniť sklá vo vašom ráme.",
-    "Svoje okuliare si prineste pre porovnanie zo sebou."
+    "Firma Zuzana z Myjavy príde zajtra, 15.10.2026 , do našej obce predávať ako každý rok aranžmá k pamiatke zosnulých za veľmi dobré ceny.",
+    "Predávať bude pred obecným úradom o 11:00 hod., na Podzámku o 11:45 hod. a v časti Majeričky 12:15 hod."
    ],
-   "firstSeen": "2026-10-14T08:58:45Z"
-  },
-  {
-   "id": "2ca61bfcb539",
-   "paragraphs": [
-    "TJ PODBRANČ Vás srdečne pozýva na domáci zápas proti TJ CHVOJNICA , ktorý sa bude konať v sobotu 17.10.2026 o 15:00 hod na ihrisku v Podbranči."
-   ],
-   "firstSeen": "2026-10-14T07:58:22Z"
+   "firstSeen": "2026-10-14T11:55:35Z"
   },
   {
    "id": "d396cbf28261",
@@ -107,6 +99,29 @@
    "firstSeen": "2026-10-13T14:17:43Z"
   },
   {
+   "id": "65ce8ae7d2ec",
+   "paragraphs": [
+    "Bratislavská vodárenská spoločnosť oznamuje svojim odberateľom, že od 15.10.2026 budú prebiehať",
+    "v našej obci odpočty vodomerov za účelom ročného vyúčtovania. Odpočty budú vykonávať pracovníci BVS, ktorí budú riadne označení a na požiadanie sa preukážu služobným preukazom.",
+    "V prípade Vašej neprítomnosti alebo v prípade neprístupnosti vodomeru môžete stav vodomeru vyvesiť na viditeľné miesto. Stav vodomeru môžete nahlásiť aj priamo cez Zákaznícky portál BVS alebo telefonicky na linke call centra podľa pokynov uvedených na kartičke, ktorú Vám pracovníci zanechajú v poštovej schránke."
+   ],
+   "firstSeen": "2026-10-14T11:55:35Z"
+  },
+  {
+   "id": "2ca61bfcb539",
+   "paragraphs": [
+    "TJ PODBRANČ Vás srdečne pozýva na domáci zápas proti TJ CHVOJNICA , ktorý sa bude konať v sobotu 17.10.2026 o 15:00 hod na ihrisku v Podbranči."
+   ],
+   "firstSeen": "2026-10-14T07:58:22Z"
+  },
+  {
+   "id": "dc14797ba566",
+   "paragraphs": [
+    "Obec PODBRANČsrdečne pozýva na stretnutie seniorov a jubilantov našej obce, do kultúrneho domu na PODZÁMKU, v nedeľu 18.10.2026 o 15:00 hod."
+   ],
+   "firstSeen": "2026-10-14T11:55:35Z"
+  },
+  {
    "id": "c26ae64be7b2",
    "paragraphs": [
     "Oznamujeme užívateľom skupinového vodovodu na Podzámku, že v prípade potreby si môžu prísť nabrať pitnú vodu na obecný úrad. ČISTENIE a DEZINFEKCIA studne sa bude realizovať v stredu 21.10.2026"
@@ -114,11 +129,13 @@
    "firstSeen": null
   },
   {
-   "id": "0c980637a93e",
+   "id": "f2c740a773c5",
    "paragraphs": [
-    "Obec PODBRANČ srdečne pozýva na stretnutie seniorov a jubilantov našej obce, do kultúrneho domu na PODZÁMKU, v nedeľu 18.10.2026 o 15:00 hod."
+    "BB oko OPTIK Banská Bystrica v našej obci dňa 20.10.2026 od 13.00hod do 13.45hod bude na obecnom úrade ponúkať bezplatnú kontrolu a meranie zrakovej ostrosti.",
+    "V prípade záujmu je možnosť vyhotovenia nových okuliarov alebo vymeniť sklá vo vašom ráme.",
+    "Svoje okuliare si prineste pre porovnanie zo sebou."
    ],
-   "firstSeen": null
+   "firstSeen": "2026-10-14T08:58:45Z"
   },
   {
    "id": "76def5b78a2d",
