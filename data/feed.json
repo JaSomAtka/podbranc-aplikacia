@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-15T10:20:46Z",
+ "updated": "2026-10-15T22:13:51Z",
  "news": [
   {
    "id": "142122",
@@ -144,15 +144,6 @@
   }
  ],
  "events": [
-  {
-   "id": "43210",
-   "title": "Vývoz triedeného odpadu",
-   "sub": "Prebieha",
-   "date": "2026-10-15",
-   "start": "2026-10-15T04:00:00Z",
-   "url": "https://www.podbranc.sk/kalendar/43210/vyvoz-triedeneho-odpadu",
-   "category": "odpad"
-  },
   {
    "id": "44450",
    "title": "Vývoz komunálneho odpadu",
