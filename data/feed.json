@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T13:11:15Z",
+ "updated": "2026-10-20T11:17:30Z",
  "news": [
   {
    "id": "142122",
@@ -84,6 +84,13 @@
  ],
  "hlasenia": [
   {
+   "id": "ea57d0cea1e4",
+   "paragraphs": [
+    "Oznamujeme užívateľom skupinového vodovodu na Podzámku, že zajtra, 21.10., od 10.00 hod. sa uskutoční čistenie a dezinfekcia studne a rezervára. Prosíme užívateľov, aby si spravili dostatočnú zásobu vody, nakoľko zajtra bude vodovod nefunkčný."
+   ],
+   "firstSeen": "2026-10-20T11:17:28Z"
+  },
+  {
    "id": "76179587fb87",
    "paragraphs": [
     "Smútiaca rodina oznamuje, že vo veku 80 rokov zomrel p. Ján Michalička, ktorého pohreb bude v stredu, 21. októbra, o 14.00 hod. v dome smútku v Podbranči s cirkevným obradom."
@@ -107,13 +114,6 @@
     "V prípade Vašej neprítomnosti alebo v prípade neprístupnosti vodomeru môžete stav vodomeru vyvesiť na viditeľné miesto. Stav vodomeru môžete nahlásiť aj priamo cez Zákaznícky portál BVS alebo telefonicky na linke call centra podľa pokynov uvedených na kartičke, ktorú Vám pracovníci zanechajú v poštovej schránke."
    ],
    "firstSeen": "2026-10-14T11:55:35Z"
-  },
-  {
-   "id": "c26ae64be7b2",
-   "paragraphs": [
-    "Oznamujeme užívateľom skupinového vodovodu na Podzámku, že v prípade potreby si môžu prísť nabrať pitnú vodu na obecný úrad. ČISTENIE a DEZINFEKCIA studne sa bude realizovať v stredu 21.10.2026"
-   ],
-   "firstSeen": null
   },
   {
    "id": "f2c740a773c5",
