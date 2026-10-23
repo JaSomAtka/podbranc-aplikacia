@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T22:16:19Z",
+ "updated": "2026-10-23T08:58:47Z",
  "news": [
   {
    "id": "142122",
@@ -84,18 +84,19 @@
  ],
  "hlasenia": [
   {
+   "id": "dc423e4b8a22",
+   "paragraphs": [
+    "Pošta v Sobotišti bude v utorok, 27.10., z prevádzkových dôvodov otvorená od 8.00 do 10.00 hod.",
+    "Vo štvrtok, 29.10., bude otvorená od 8.00 do 10.00 a v piatok, 30.10., bude zatvorená."
+   ],
+   "firstSeen": "2026-10-23T08:58:46Z"
+  },
+  {
    "id": "ea57d0cea1e4",
    "paragraphs": [
     "Oznamujeme užívateľom skupinového vodovodu na Podzámku, že zajtra, 21.10., od 10.00 hod. sa uskutoční čistenie a dezinfekcia studne a rezervára. Prosíme užívateľov, aby si spravili dostatočnú zásobu vody, nakoľko zajtra bude vodovod nefunkčný."
    ],
    "firstSeen": "2026-10-20T11:17:28Z"
-  },
-  {
-   "id": "76179587fb87",
-   "paragraphs": [
-    "Smútiaca rodina oznamuje, že vo veku 80 rokov zomrel p. Ján Michalička, ktorého pohreb bude v stredu, 21. októbra, o 14.00 hod. v dome smútku v Podbranči s cirkevným obradom."
-   ],
-   "firstSeen": "2026-10-19T13:11:14Z"
   },
   {
    "id": "d13a49f43ea9",
@@ -105,15 +106,6 @@
     "Voliči, ktorí sa zo zdravotných dôvodov nemôžu dostaviť do volebnej miestnosti, môžu požiadať o hlasovanie v domácnosti do prenosnej urny. Žiadosti o prenosnú urnu treba nahlásiť na obecný úrad."
    ],
    "firstSeen": "2026-10-19T10:59:20Z"
-  },
-  {
-   "id": "65ce8ae7d2ec",
-   "paragraphs": [
-    "Bratislavská vodárenská spoločnosť oznamuje svojim odberateľom, že od 15.10.2026 budú prebiehať",
-    "v našej obci odpočty vodomerov za účelom ročného vyúčtovania. Odpočty budú vykonávať pracovníci BVS, ktorí budú riadne označení a na požiadanie sa preukážu služobným preukazom.",
-    "V prípade Vašej neprítomnosti alebo v prípade neprístupnosti vodomeru môžete stav vodomeru vyvesiť na viditeľné miesto. Stav vodomeru môžete nahlásiť aj priamo cez Zákaznícky portál BVS alebo telefonicky na linke call centra podľa pokynov uvedených na kartičke, ktorú Vám pracovníci zanechajú v poštovej schránke."
-   ],
-   "firstSeen": "2026-10-14T11:55:35Z"
   },
   {
    "id": "76def5b78a2d",
