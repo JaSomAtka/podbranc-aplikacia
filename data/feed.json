@@ -1,6 +1,22 @@
 {
- "updated": "2026-10-25T10:52:03Z",
+ "updated": "2026-10-28T10:10:45Z",
  "news": [
+  {
+   "id": "143213",
+   "title": "Zber nebezpečného odpadu",
+   "text": "Zber nebezpečného odpadu",
+   "url": "https://www.podbranc.sk/novinka/143213/n",
+   "image": "https://www.podbranc.sk/data/news/podbranc.sk/2025/odpad-kontajner_9c1d90_md.jpg",
+   "date": "2026-10-28T10:07:00Z"
+  },
+  {
+   "id": "143212",
+   "title": "Zber textilného odpadu",
+   "text": "Zber textilného odpadu",
+   "url": "https://www.podbranc.sk/novinka/143212/n",
+   "image": "https://www.podbranc.sk/data/news/podbranc.sk/2025/nagyterjedelmu-hulladek_3117f7_sm_40a306_md.jpg",
+   "date": "2026-10-28T10:00:00Z"
+  },
   {
    "id": "142122",
    "title": "POZVÁNKA PRE JUBILANTOV a SENIOROV",
@@ -64,22 +80,6 @@
    "url": "https://www.podbranc.sk/novinka/139976/n",
    "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/2024_03_22_arriva_velka-noc-scaled_71330c_md.jpg",
    "date": "2026-09-10T09:12:00Z"
-  },
-  {
-   "id": "139963",
-   "title": "POĎAKOVANIE DOBROVOĽNÝM HASIČOM",
-   "text": "DHZ DOLNÁ DOLINA",
-   "url": "https://www.podbranc.sk/novinka/139963/n",
-   "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/poziadnici-ohen-voda_086c50_md.jpg",
-   "date": "2026-09-10T07:35:00Z"
-  },
-  {
-   "id": "139549",
-   "title": "IX. ročník fotosúťaže",
-   "text": "Záhorie a Kopanice vašimi očami",
-   "url": "https://www.podbranc.sk/novinka/139549/n",
-   "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/fotosutaz_2ce753_md.png",
-   "date": "2026-09-04T08:36:00Z"
   }
  ],
  "hlasenia": [
