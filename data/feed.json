@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-03T09:41:34Z",
+ "updated": "2026-11-03T10:42:05Z",
  "news": [
+  {
+   "id": "143508",
+   "title": "ČO ROBIŤ V PRÍPADE KRÍZY ALEBO OZBROJENÉHO KONFLIKTU",
+   "text": "BROŽÚRA",
+   "url": "https://www.podbranc.sk/novinka/143508/n",
+   "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/snimka_obrazovky_2026-11-03_103939_eb9233_md.png",
+   "date": "2026-11-03T09:40:00Z"
+  },
   {
    "id": "143213",
    "title": "Zber nebezpečného odpadu",
@@ -72,14 +80,6 @@
    "url": "https://www.podbranc.sk/novinka/140039/n",
    "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/vizual-pre-obce_final_5679aa_md.jpg",
    "date": "2026-09-11T06:32:00Z"
-  },
-  {
-   "id": "139976",
-   "title": "PRIPOMIENKOVANIE A NÁVRH ZMIEN CESTOVNÝCH PORIADKOV",
-   "text": "CESTUJÚCIMI OBČANMI",
-   "url": "https://www.podbranc.sk/novinka/139976/n",
-   "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/2024_03_22_arriva_velka-noc-scaled_71330c_md.jpg",
-   "date": "2026-09-10T09:12:00Z"
   }
  ],
  "hlasenia": [
