@@ -1,14 +1,6 @@
 {
- "updated": "2026-11-03T11:38:05Z",
+ "updated": "2026-11-03T14:41:22Z",
  "news": [
-  {
-   "id": "143523",
-   "title": "Zimné vykurovacie obdobie",
-   "text": "počas, ktorého vzniká väčšie množstvo požiarov je tu!",
-   "url": "https://www.podbranc.sk/novinka/143523/n",
-   "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/img_1009-1_525f5f_md.jpg",
-   "date": "2026-11-03T10:31:00Z"
-  },
   {
    "id": "143508",
    "title": "ČO ROBIŤ V PRÍPADE KRÍZY ALEBO OZBROJENÉHO KONFLIKTU",
@@ -80,6 +72,14 @@
    "url": "https://www.podbranc.sk/novinka/140507/n",
    "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/stroj_1_3fc584_md.jpg",
    "date": "2026-09-18T09:16:00Z"
+  },
+  {
+   "id": "140039",
+   "title": "PRAVDY A MÝTY O ODPADE",
+   "text": "AK SPRÁVNE TRIEDIME SVET JE KRAJŠÍ",
+   "url": "https://www.podbranc.sk/novinka/140039/n",
+   "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/vizual-pre-obce_final_5679aa_md.jpg",
+   "date": "2026-09-11T06:32:00Z"
   }
  ],
  "hlasenia": [
