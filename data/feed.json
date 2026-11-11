@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-05T23:06:40Z",
+ "updated": "2026-11-11T11:15:28Z",
  "news": [
+  {
+   "id": "143965",
+   "title": "Pozvánka na ustanovujúce zasadnutie",
+   "text": "Obecného zastupiteľstva",
+   "url": "https://www.podbranc.sk/novinka/143965/n",
+   "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/pero-dokument-oblek_dbd96d_md.jpg",
+   "date": "2026-11-11T08:28:00Z"
+  },
   {
    "id": "143508",
    "title": "ČO ROBIŤ V PRÍPADE KRÍZY ALEBO OZBROJENÉHO KONFLIKTU",
@@ -72,14 +80,6 @@
    "url": "https://www.podbranc.sk/novinka/141301/n",
    "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/snimka_obrazovky_2026-09-29_085607_04510e_md.png",
    "date": "2026-09-29T06:49:00Z"
-  },
-  {
-   "id": "140507",
-   "title": "Obec Podbranč obstarala",
-   "text": "Nový multifunkčný stroj na údržbu verejných priestranstiev a verejných komunikáci",
-   "url": "https://www.podbranc.sk/novinka/140507/n",
-   "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/stroj_1_3fc584_md.jpg",
-   "date": "2026-09-18T09:16:00Z"
   }
  ],
  "hlasenia": [
