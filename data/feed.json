@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T01:06:50Z",
+ "updated": "2026-11-12T16:58:01Z",
  "news": [
   {
    "id": "143965",
@@ -163,6 +163,87 @@
    "date": "2026-12-31",
    "start": "2026-12-31T06:00:00Z",
    "url": "https://www.podbranc.sk/kalendar/44455/vyvoz-komunalneho-odpadu",
+   "category": "odpad"
+  },
+  {
+   "id": "55893",
+   "title": "Vývoz komunálneho odpadu",
+   "sub": "",
+   "date": "2027-01-14",
+   "start": "2027-01-14T05:00:00Z",
+   "url": "https://www.podbranc.sk/kalendar/55893/vyvoz-komunalneho-odpadu",
+   "category": "odpad"
+  },
+  {
+   "id": "55879",
+   "title": "Vývoz triedeného odpadu",
+   "sub": "papier, sklo, plasty a kov",
+   "date": "2027-01-20",
+   "start": "2027-01-20T05:00:00Z",
+   "url": "https://www.podbranc.sk/kalendar/55879/vyvoz-triedeneho-odpadu",
+   "category": "odpad"
+  },
+  {
+   "id": "55894",
+   "title": "Vývoz komunálneho odpadu",
+   "sub": "",
+   "date": "2027-01-28",
+   "start": "2027-01-28T05:00:00Z",
+   "url": "https://www.podbranc.sk/kalendar/55894/vyvoz-komunalneho-odpadu",
+   "category": "odpad"
+  },
+  {
+   "id": "55895",
+   "title": "Vývoz komunálneho odpadu",
+   "sub": "",
+   "date": "2027-02-11",
+   "start": "2027-02-11T05:00:00Z",
+   "url": "https://www.podbranc.sk/kalendar/55895/vyvoz-komunalneho-odpadu",
+   "category": "odpad"
+  },
+  {
+   "id": "55904",
+   "title": "Vývoz komunálneho odpadu",
+   "sub": "",
+   "date": "2027-02-25",
+   "start": "2027-02-25T05:00:00Z",
+   "url": "https://www.podbranc.sk/kalendar/55904/vyvoz-komunalneho-odpadu",
+   "category": "odpad"
+  },
+  {
+   "id": "55880",
+   "title": "Vývoz triedeného odpadu",
+   "sub": "papier, sklo, plasty a kov",
+   "date": "2027-03-10",
+   "start": "2027-03-10T05:00:00Z",
+   "url": "https://www.podbranc.sk/kalendar/55880/vyvoz-triedeneho-odpadu",
+   "category": "odpad"
+  },
+  {
+   "id": "55905",
+   "title": "Vývoz komunálneho odpadu",
+   "sub": "",
+   "date": "2027-03-11",
+   "start": "2027-03-11T05:00:00Z",
+   "url": "https://www.podbranc.sk/kalendar/55905/vyvoz-komunalneho-odpadu",
+   "category": "odpad"
+  },
+  {
+   "id": "55897",
+   "title": "Dospelí - TJ Podbranč vs TJ Družstevník Radimov",
+   "sub": "",
+   "date": "2027-03-20",
+   "start": "2027-03-20T13:00:00Z",
+   "url": "https://www.podbranc.sk/kalendar/55897/dospeli-tj-podbranc-vs-tj-druzstevnik-radimov",
+   "category": "podujatia"
+  },
+  {
+   "id": "55906",
+   "title": "Vývoz komunálneho odpadu",
+   "sub": "",
+   "date": "2027-03-25",
+   "start": "2027-03-25T05:00:00Z",
+   "url": "https://www.podbranc.sk/kalendar/55906/vyvoz-komunalneho-odpadu",
    "category": "odpad"
   }
  ]
