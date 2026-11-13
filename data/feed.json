@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T10:36:08Z",
+ "updated": "2026-11-13T23:43:51Z",
  "news": [
   {
    "id": "143965",
@@ -111,15 +111,6 @@
   }
  ],
  "events": [
-  {
-   "id": "43211",
-   "title": "Vývoz triedeného odpadu",
-   "sub": "Prebieha",
-   "date": "2026-11-13",
-   "start": "2026-11-13T05:00:00Z",
-   "url": "https://www.podbranc.sk/kalendar/43211/vyvoz-triedeneho-odpadu",
-   "category": "odpad"
-  },
   {
    "id": "44452",
    "title": "Vývoz komunálneho odpadu",
@@ -245,6 +236,15 @@
    "start": "2027-03-25T05:00:00Z",
    "url": "https://www.podbranc.sk/kalendar/55906/vyvoz-komunalneho-odpadu",
    "category": "odpad"
+  },
+  {
+   "id": "55898",
+   "title": "Dospelí - FK Cerová vs TJ Podbranč",
+   "sub": "",
+   "date": "2027-03-28",
+   "start": "2027-03-28T13:00:00Z",
+   "url": "https://www.podbranc.sk/kalendar/55898/dospeli-fk-cerova-vs-tj-podbranc",
+   "category": "podujatia"
   }
  ]
 }
