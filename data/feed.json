@@ -1,6 +1,14 @@
 {
- "updated": "2026-11-13T23:43:51Z",
+ "updated": "2026-11-16T16:32:10Z",
  "news": [
+  {
+   "id": "144274",
+   "title": "e-Faktúra",
+   "text": "OZNAM",
+   "url": "https://www.podbranc.sk/novinka/144274/n",
+   "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/snimka_obrazovky_2026-11-16_101603_93a474_md.png",
+   "date": "2026-11-16T08:57:00Z"
+  },
   {
    "id": "143965",
    "title": "Pozvánka na ustanovujúce zasadnutie",
@@ -64,14 +72,6 @@
    "url": "https://www.podbranc.sk/novinka/141618/n",
    "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/mobil_4de058_md.jpg",
    "date": "2026-10-05T06:44:00Z"
-  },
-  {
-   "id": "141312",
-   "title": "Odvolanie času so zvýšeným nebezpečenstvom vzniku požiaru",
-   "text": "Okresné riaditeľstvo Hasičského a záchranného zboru v Senici",
-   "url": "https://www.podbranc.sk/novinka/141312/n",
-   "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/snimka_obrazovky_2026-09-29_104856_bf58f3_md.png",
-   "date": "2026-09-29T08:41:00Z"
   },
   {
    "id": "141301",
