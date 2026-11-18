@@ -1,14 +1,6 @@
 {
- "updated": "2026-11-18T00:15:15Z",
+ "updated": "2026-11-18T16:45:27Z",
  "news": [
-  {
-   "id": "144274",
-   "title": "e-Faktúra",
-   "text": "OZNAM",
-   "url": "https://www.podbranc.sk/novinka/144274/n",
-   "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/snimka_obrazovky_2026-11-16_101603_93a474_md.png",
-   "date": "2026-11-16T08:57:00Z"
-  },
   {
    "id": "143965",
    "title": "Pozvánka na ustanovujúce zasadnutie",
@@ -50,6 +42,30 @@
    "date": "2026-10-28T10:00:00Z"
   },
   {
+   "id": "144439",
+   "title": "Obnova hradu Branč 2026",
+   "text": "Finančne podporilo Ministerstvo kultúry Slovenskej republiky",
+   "url": "https://www.podbranc.sk/novinka/144439/n",
+   "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/f1080008_3d5703_md.jpg",
+   "date": "2026-10-16T09:23:00Z"
+  },
+  {
+   "id": "144434",
+   "title": "Hrad Branč - oprava východnej hradby",
+   "text": "Projekt \"Hrad Branč - oprava východnej hradby\" je realizovaný s finančnou podporou Trnavského samosprávneho kraja a z Fondu na rozvoj Trnavského kraja.",
+   "url": "https://www.podbranc.sk/novinka/144434/n",
+   "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/snimka_obrazovky_2026-11-18_110248_c471c3_md.png",
+   "date": "2026-10-16T08:56:00Z"
+  },
+  {
+   "id": "144274",
+   "title": "e-Faktúra",
+   "text": "OZNAM",
+   "url": "https://www.podbranc.sk/novinka/144274/n",
+   "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/snimka_obrazovky_2026-11-16_101603_93a474_md.png",
+   "date": "2026-10-15T07:57:00Z"
+  },
+  {
    "id": "142122",
    "title": "POZVÁNKA PRE JUBILANTOV a SENIOROV",
    "text": "našej obce",
@@ -64,22 +80,6 @@
    "url": "https://www.podbranc.sk/novinka/141880/n",
    "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/snimka_obrazovky_2026-10-08_092835_6cb505_md.png",
    "date": "2026-10-08T07:24:00Z"
-  },
-  {
-   "id": "141618",
-   "title": "Našiel sa mobil",
-   "text": "v čiernom puzdre.",
-   "url": "https://www.podbranc.sk/novinka/141618/n",
-   "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/mobil_4de058_md.jpg",
-   "date": "2026-10-05T06:44:00Z"
-  },
-  {
-   "id": "141301",
-   "title": "Informovanie účastníkov konania o plánovanom konaní pozemkových úprav",
-   "text": "Projekt pozemkových úprav v katastrálnom území Podbranč",
-   "url": "https://www.podbranc.sk/novinka/141301/n",
-   "image": "https://www.podbranc.sk/data/news/podbranc.sk/2026/snimka_obrazovky_2026-09-29_085607_04510e_md.png",
-   "date": "2026-09-29T06:49:00Z"
   }
  ],
  "hlasenia": [
